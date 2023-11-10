@@ -1,6 +1,7 @@
 # fuzzy-cruise-controller-
 
 Background 
+
 One of the main applications of fuzzy systems is to control systems. In this module, we developed a controller for an inverted pendulum. In this workshop, you will implement a cruise control system. If you get stuck, you could take a look at the inverted pendulum controller solution. 
 On Blackboard attached to the Workshop plan item in , you will find a set of MATLAB m-files (in the zip file CruiseControl.zip) that simulate a vehicle travelling over a hilly terrain, using a cruise control system to maintain constant speed. The diagram below shows how this scenario is modelled.
 
